@@ -1,4 +1,5 @@
 # Claude Agentic Workflows
+   ![tests](https://github.com/Ghospool/claude-agentic-workflows_practice/actions/workflows/ci.yml/badge.svg)
 
 Four production-style implementations of the core agentic design patterns, built on the Claude API with Python. Each project is self-contained, tested offline, and ships with an evaluation harness and a design write-up.
 
