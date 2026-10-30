@@ -1,0 +1,300 @@
+{"id": "R0001", "sentiment": "positive", "topics": ["support"]}
+{"id": "R0002", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0003", "sentiment": "positive", "topics": ["support"]}
+{"id": "R0004", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0005", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0006", "sentiment": "positive", "topics": ["pricing"]}
+{"id": "R0007", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0008", "sentiment": "negative", "topics": ["usability"]}
+{"id": "R0009", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0010", "sentiment": "positive", "topics": ["delivery", "support"]}
+{"id": "R0011", "sentiment": "positive", "topics": ["quality"]}
+{"id": "R0012", "sentiment": "positive", "topics": ["delivery", "usability"]}
+{"id": "R0013", "sentiment": "negative", "topics": ["usability"]}
+{"id": "R0014", "sentiment": "positive", "topics": ["quality"]}
+{"id": "R0015", "sentiment": "negative", "topics": ["usability"]}
+{"id": "R0016", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0017", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0018", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0019", "sentiment": "positive", "topics": ["delivery", "pricing"]}
+{"id": "R0020", "sentiment": "negative", "topics": ["pricing"]}
+{"id": "R0021", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0022", "sentiment": "negative", "topics": ["quality"]}
+{"id": "R0023", "sentiment": "positive", "topics": ["support"]}
+{"id": "R0024", "sentiment": "negative", "topics": ["quality", "support"]}
+{"id": "R0025", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0026", "sentiment": "positive", "topics": ["quality"]}
+{"id": "R0027", "sentiment": "negative", "topics": ["quality"]}
+{"id": "R0028", "sentiment": "negative", "topics": ["support", "usability"]}
+{"id": "R0029", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0030", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0031", "sentiment": "positive", "topics": ["pricing"]}
+{"id": "R0032", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0033", "sentiment": "positive", "topics": ["quality"]}
+{"id": "R0034", "sentiment": "negative", "topics": ["pricing"]}
+{"id": "R0035", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0036", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0037", "sentiment": "positive", "topics": ["quality", "usability"]}
+{"id": "R0038", "sentiment": "negative", "topics": ["quality"]}
+{"id": "R0039", "sentiment": "positive", "topics": ["delivery", "pricing"]}
+{"id": "R0040", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0041", "sentiment": "negative", "topics": ["quality"]}
+{"id": "R0042", "sentiment": "positive", "topics": ["delivery", "support"]}
+{"id": "R0043", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0044", "sentiment": "negative", "topics": ["reliability"]}
+{"id": "R0045", "sentiment": "positive", "topics": ["pricing"]}
+{"id": "R0046", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0047", "sentiment": "negative", "topics": ["pricing", "reliability"]}
+{"id": "R0048", "sentiment": "negative", "topics": ["quality"]}
+{"id": "R0049", "sentiment": "positive", "topics": ["reliability", "support"]}
+{"id": "R0050", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0051", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0052", "sentiment": "negative", "topics": ["reliability"]}
+{"id": "R0053", "sentiment": "positive", "topics": ["pricing"]}
+{"id": "R0054", "sentiment": "negative", "topics": ["quality"]}
+{"id": "R0055", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0056", "sentiment": "positive", "topics": ["pricing"]}
+{"id": "R0057", "sentiment": "negative", "topics": ["support", "usability"]}
+{"id": "R0058", "sentiment": "positive", "topics": ["support"]}
+{"id": "R0059", "sentiment": "negative", "topics": ["quality"]}
+{"id": "R0060", "sentiment": "negative", "topics": ["delivery", "pricing"]}
+{"id": "R0061", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0062", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0063", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0064", "sentiment": "positive", "topics": ["delivery", "quality"]}
+{"id": "R0065", "sentiment": "negative", "topics": ["quality", "usability"]}
+{"id": "R0066", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0067", "sentiment": "positive", "topics": ["pricing"]}
+{"id": "R0068", "sentiment": "positive", "topics": ["pricing"]}
+{"id": "R0069", "sentiment": "negative", "topics": ["quality"]}
+{"id": "R0070", "sentiment": "negative", "topics": ["reliability"]}
+{"id": "R0071", "sentiment": "positive", "topics": ["quality", "reliability"]}
+{"id": "R0072", "sentiment": "positive", "topics": ["quality"]}
+{"id": "R0073", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0074", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0075", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0076", "sentiment": "positive", "topics": ["delivery"]}
+{"id": "R0077", "sentiment": "negative", "topics": ["delivery", "support"]}
+{"id": "R0078", "sentiment": "positive", "topics": ["reliability"]}
+{"id": "R0079", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0080", "sentiment": "positive", "topics": ["reliability"]}
+{"id": "R0081", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0082", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0083", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0084", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0085", "sentiment": "negative", "topics": ["delivery", "usability"]}
+{"id": "R0086", "sentiment": "positive", "topics": ["delivery"]}
+{"id": "R0087", "sentiment": "negative", "topics": ["pricing"]}
+{"id": "R0088", "sentiment": "negative", "topics": ["usability"]}
+{"id": "R0089", "sentiment": "positive", "topics": ["reliability", "support"]}
+{"id": "R0090", "sentiment": "negative", "topics": ["delivery", "quality"]}
+{"id": "R0091", "sentiment": "negative", "topics": ["quality", "reliability"]}
+{"id": "R0092", "sentiment": "negative", "topics": ["pricing"]}
+{"id": "R0093", "sentiment": "negative", "topics": ["quality"]}
+{"id": "R0094", "sentiment": "negative", "topics": ["delivery", "reliability"]}
+{"id": "R0095", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0096", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0097", "sentiment": "positive", "topics": ["pricing"]}
+{"id": "R0098", "sentiment": "positive", "topics": ["support"]}
+{"id": "R0099", "sentiment": "positive", "topics": ["quality"]}
+{"id": "R0100", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0101", "sentiment": "positive", "topics": ["pricing", "quality"]}
+{"id": "R0102", "sentiment": "negative", "topics": ["delivery", "support"]}
+{"id": "R0103", "sentiment": "negative", "topics": ["pricing", "quality"]}
+{"id": "R0104", "sentiment": "negative", "topics": ["usability"]}
+{"id": "R0105", "sentiment": "negative", "topics": ["quality", "reliability"]}
+{"id": "R0106", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0107", "sentiment": "negative", "topics": ["quality", "usability"]}
+{"id": "R0108", "sentiment": "positive", "topics": ["reliability"]}
+{"id": "R0109", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0110", "sentiment": "negative", "topics": ["reliability"]}
+{"id": "R0111", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0112", "sentiment": "negative", "topics": ["pricing"]}
+{"id": "R0113", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0114", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0115", "sentiment": "negative", "topics": ["reliability"]}
+{"id": "R0116", "sentiment": "positive", "topics": ["delivery", "support"]}
+{"id": "R0117", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0118", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0119", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0120", "sentiment": "positive", "topics": ["pricing"]}
+{"id": "R0121", "sentiment": "positive", "topics": ["quality"]}
+{"id": "R0122", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0123", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0124", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0125", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0126", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0127", "sentiment": "positive", "topics": ["pricing"]}
+{"id": "R0128", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0129", "sentiment": "negative", "topics": ["pricing"]}
+{"id": "R0130", "sentiment": "positive", "topics": ["quality"]}
+{"id": "R0131", "sentiment": "positive", "topics": ["support"]}
+{"id": "R0132", "sentiment": "negative", "topics": ["quality", "usability"]}
+{"id": "R0133", "sentiment": "positive", "topics": ["reliability"]}
+{"id": "R0134", "sentiment": "negative", "topics": ["quality", "reliability"]}
+{"id": "R0135", "sentiment": "positive", "topics": ["reliability"]}
+{"id": "R0136", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0137", "sentiment": "negative", "topics": ["quality"]}
+{"id": "R0138", "sentiment": "positive", "topics": ["support"]}
+{"id": "R0139", "sentiment": "positive", "topics": ["quality"]}
+{"id": "R0140", "sentiment": "positive", "topics": ["delivery"]}
+{"id": "R0141", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0142", "sentiment": "positive", "topics": ["delivery"]}
+{"id": "R0143", "sentiment": "negative", "topics": ["quality"]}
+{"id": "R0144", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0145", "sentiment": "positive", "topics": ["quality"]}
+{"id": "R0146", "sentiment": "negative", "topics": ["usability"]}
+{"id": "R0147", "sentiment": "negative", "topics": ["reliability", "support"]}
+{"id": "R0148", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0149", "sentiment": "negative", "topics": ["pricing", "support"]}
+{"id": "R0150", "sentiment": "positive", "topics": ["reliability"]}
+{"id": "R0151", "sentiment": "negative", "topics": ["reliability", "support"]}
+{"id": "R0152", "sentiment": "positive", "topics": ["quality", "support"]}
+{"id": "R0153", "sentiment": "negative", "topics": ["usability"]}
+{"id": "R0154", "sentiment": "positive", "topics": ["reliability"]}
+{"id": "R0155", "sentiment": "positive", "topics": ["pricing"]}
+{"id": "R0156", "sentiment": "positive", "topics": ["quality"]}
+{"id": "R0157", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0158", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0159", "sentiment": "negative", "topics": ["reliability"]}
+{"id": "R0160", "sentiment": "negative", "topics": ["pricing", "usability"]}
+{"id": "R0161", "sentiment": "positive", "topics": ["quality"]}
+{"id": "R0162", "sentiment": "negative", "topics": ["pricing"]}
+{"id": "R0163", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0164", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0165", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0166", "sentiment": "positive", "topics": ["reliability"]}
+{"id": "R0167", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0168", "sentiment": "negative", "topics": ["pricing", "support"]}
+{"id": "R0169", "sentiment": "positive", "topics": ["delivery"]}
+{"id": "R0170", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0171", "sentiment": "negative", "topics": ["usability"]}
+{"id": "R0172", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0173", "sentiment": "positive", "topics": ["quality", "support"]}
+{"id": "R0174", "sentiment": "negative", "topics": ["reliability"]}
+{"id": "R0175", "sentiment": "negative", "topics": ["pricing"]}
+{"id": "R0176", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0177", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0178", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0179", "sentiment": "positive", "topics": ["pricing", "usability"]}
+{"id": "R0180", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0181", "sentiment": "positive", "topics": ["support"]}
+{"id": "R0182", "sentiment": "positive", "topics": ["reliability"]}
+{"id": "R0183", "sentiment": "negative", "topics": ["delivery", "quality"]}
+{"id": "R0184", "sentiment": "negative", "topics": ["pricing", "usability"]}
+{"id": "R0185", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0186", "sentiment": "positive", "topics": ["delivery", "quality"]}
+{"id": "R0187", "sentiment": "negative", "topics": ["usability"]}
+{"id": "R0188", "sentiment": "positive", "topics": ["quality", "support"]}
+{"id": "R0189", "sentiment": "positive", "topics": ["quality", "usability"]}
+{"id": "R0190", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0191", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0192", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0193", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0194", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0195", "sentiment": "positive", "topics": ["support"]}
+{"id": "R0196", "sentiment": "positive", "topics": ["quality"]}
+{"id": "R0197", "sentiment": "positive", "topics": ["support"]}
+{"id": "R0198", "sentiment": "negative", "topics": ["pricing"]}
+{"id": "R0199", "sentiment": "positive", "topics": ["pricing"]}
+{"id": "R0200", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0201", "sentiment": "positive", "topics": ["quality"]}
+{"id": "R0202", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0203", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0204", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0205", "sentiment": "positive", "topics": ["reliability"]}
+{"id": "R0206", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0207", "sentiment": "negative", "topics": ["reliability"]}
+{"id": "R0208", "sentiment": "positive", "topics": ["support"]}
+{"id": "R0209", "sentiment": "negative", "topics": ["usability"]}
+{"id": "R0210", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0211", "sentiment": "negative", "topics": ["pricing"]}
+{"id": "R0212", "sentiment": "positive", "topics": ["delivery"]}
+{"id": "R0213", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0214", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0215", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0216", "sentiment": "negative", "topics": ["pricing"]}
+{"id": "R0217", "sentiment": "negative", "topics": ["support", "usability"]}
+{"id": "R0218", "sentiment": "positive", "topics": ["pricing"]}
+{"id": "R0219", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0220", "sentiment": "negative", "topics": ["pricing"]}
+{"id": "R0221", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0222", "sentiment": "negative", "topics": ["reliability"]}
+{"id": "R0223", "sentiment": "positive", "topics": ["reliability"]}
+{"id": "R0224", "sentiment": "positive", "topics": ["pricing"]}
+{"id": "R0225", "sentiment": "positive", "topics": ["quality", "support"]}
+{"id": "R0226", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0227", "sentiment": "negative", "topics": ["pricing", "usability"]}
+{"id": "R0228", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0229", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0230", "sentiment": "negative", "topics": ["pricing"]}
+{"id": "R0231", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0232", "sentiment": "negative", "topics": ["pricing"]}
+{"id": "R0233", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0234", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0235", "sentiment": "positive", "topics": ["delivery", "quality"]}
+{"id": "R0236", "sentiment": "positive", "topics": ["delivery", "reliability"]}
+{"id": "R0237", "sentiment": "negative", "topics": ["usability"]}
+{"id": "R0238", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0239", "sentiment": "positive", "topics": ["reliability"]}
+{"id": "R0240", "sentiment": "negative", "topics": ["delivery", "quality"]}
+{"id": "R0241", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0242", "sentiment": "positive", "topics": ["reliability"]}
+{"id": "R0243", "sentiment": "negative", "topics": ["quality"]}
+{"id": "R0244", "sentiment": "positive", "topics": ["delivery", "pricing"]}
+{"id": "R0245", "sentiment": "negative", "topics": ["pricing"]}
+{"id": "R0246", "sentiment": "positive", "topics": ["delivery", "usability"]}
+{"id": "R0247", "sentiment": "positive", "topics": ["quality"]}
+{"id": "R0248", "sentiment": "positive", "topics": ["pricing"]}
+{"id": "R0249", "sentiment": "positive", "topics": ["reliability"]}
+{"id": "R0250", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0251", "sentiment": "negative", "topics": ["usability"]}
+{"id": "R0252", "sentiment": "positive", "topics": ["quality"]}
+{"id": "R0253", "sentiment": "negative", "topics": ["reliability"]}
+{"id": "R0254", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0255", "sentiment": "negative", "topics": ["quality"]}
+{"id": "R0256", "sentiment": "negative", "topics": ["reliability", "support"]}
+{"id": "R0257", "sentiment": "negative", "topics": ["reliability"]}
+{"id": "R0258", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0259", "sentiment": "negative", "topics": ["quality"]}
+{"id": "R0260", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0261", "sentiment": "positive", "topics": ["reliability", "support"]}
+{"id": "R0262", "sentiment": "negative", "topics": ["pricing"]}
+{"id": "R0263", "sentiment": "negative", "topics": ["quality", "reliability"]}
+{"id": "R0264", "sentiment": "positive", "topics": ["quality", "support"]}
+{"id": "R0265", "sentiment": "positive", "topics": ["pricing"]}
+{"id": "R0266", "sentiment": "positive", "topics": ["quality"]}
+{"id": "R0267", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0268", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0269", "sentiment": "negative", "topics": ["pricing"]}
+{"id": "R0270", "sentiment": "negative", "topics": ["pricing", "reliability"]}
+{"id": "R0271", "sentiment": "negative", "topics": ["usability"]}
+{"id": "R0272", "sentiment": "negative", "topics": ["pricing", "support"]}
+{"id": "R0273", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0274", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0275", "sentiment": "negative", "topics": ["delivery", "quality"]}
+{"id": "R0276", "sentiment": "positive", "topics": ["delivery"]}
+{"id": "R0277", "sentiment": "negative", "topics": ["support", "usability"]}
+{"id": "R0278", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0279", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0280", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0281", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0282", "sentiment": "negative", "topics": ["delivery"]}
+{"id": "R0283", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0284", "sentiment": "positive", "topics": ["delivery", "quality"]}
+{"id": "R0285", "sentiment": "positive", "topics": ["pricing"]}
+{"id": "R0286", "sentiment": "negative", "topics": ["delivery", "pricing"]}
+{"id": "R0287", "sentiment": "negative", "topics": ["pricing", "support"]}
+{"id": "R0288", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0289", "sentiment": "negative", "topics": ["support"]}
+{"id": "R0290", "sentiment": "negative", "topics": ["pricing", "reliability"]}
+{"id": "R0291", "sentiment": "positive", "topics": ["reliability"]}
+{"id": "R0292", "sentiment": "positive", "topics": ["usability"]}
+{"id": "R0293", "sentiment": "positive", "topics": ["quality", "usability"]}
+{"id": "R0294", "sentiment": "negative", "topics": ["quality", "reliability"]}
+{"id": "R0295", "sentiment": "negative", "topics": ["quality"]}
+{"id": "R0296", "sentiment": "positive", "topics": ["pricing", "quality"]}
+{"id": "R0297", "sentiment": "neutral", "topics": ["other"]}
+{"id": "R0298", "sentiment": "positive", "topics": ["pricing"]}
+{"id": "R0299", "sentiment": "negative", "topics": ["pricing"]}
+{"id": "R0300", "sentiment": "negative", "topics": ["quality", "usability"]}
